@@ -1,4 +1,4 @@
-# 🏛️ Quantitative Data Analyst & Macro Strategic Analyst
+# 🏛️ Quantitative Data & Macro Strategic Analyst
 
 ### *Bridging High-Dimensional Data Analytics with Global Financial, Econometric, and Geopolitical Intelligence*
 **Dual-Base Operations:** Singapore 🇸🇬 ⇄ Seoul, South Korea 🇰🇷  
