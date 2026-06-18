@@ -30,7 +30,7 @@ As an active academic researcher and author, my work focuses on developing origi
 Developed across 2024–2025 and detailed in my book *The Establishment* and accompanying research papers, I proposed an original analytical framework to outperform traditional material-based geopolitical models by evaluating eleven major conflicts from 1950 to 2025 (including the Korean War and the Ukraine conflict):
 
 ```math
-(D = (M + A) \times C^w\)
+(D = (M + A) \times C^w)
 ```
 
 * **\(M\)**: **Mass** – Total underlying military, industrial, or economic volume metrics.
