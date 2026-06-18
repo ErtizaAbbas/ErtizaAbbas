@@ -64,7 +64,7 @@ D = (M + A) \times C^w
 ## 🔗 Connect & Collaborate
 
 ```math
-\(\mathbf{C} = \begin{bmatrix}  \text{Communication Node} & \text{Secure Directives} \\  \hline  \text{Corporate Inbox Gateway} & \text{abbasertiza@gmail.com} \\  \text{Professional Network Link} & \text{://linkedin.com}  \end{bmatrix}\)
+(\mathbf{C} = \begin{bmatrix}  \text{Communication Node} & \text{Secure Directives} \\  \hline  \text{Corporate Inbox Gateway} & \text{abbasertiza@gmail.com} \\  \text{Professional Network Link} & \text{://linkedin.com}  \end{bmatrix}\
 ```
 
 * 📨 **Direct Corporate Inbox Portal:** [abbasertiza@gmail.com](mailto:abbasertiza@gmail.com)
