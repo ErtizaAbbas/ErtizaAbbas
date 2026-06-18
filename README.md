@@ -44,7 +44,7 @@ D = (M + A) \times C^w
 ## 📚 Published Literature & Authored Book Works
 
 ### 🖋️ Released Volumes & Contributions (2025)
-* 📘 **The Establishment** (Non-Fiction / Strategic Studies) – Formulates and details the mathematical framework for strategic dominance, structural conflict evolution, and geopolitical leverage modeling.
+* 📘 **The Empire** (Non-Fiction / Strategic Studies) – Formulates and details the mathematical framework for strategic dominance, structural conflict evolution, and geopolitical leverage modeling.
 * 📗 **The Global Economy** (Non-Fiction / Macroeconomics) – A deep analytical dive into global structural economic shifts, monetary flows, and currency market micro-structures.
 * 📕 **When You Need Me** (Non-Fiction / Letters) – A personal, heartfelt collection of letters from a father to his daughter, offering timeless guidance, resilience anchors, and lifestyle reassurance. *ISBN: 9789819445387*
 * 📙 **Witness** (Non-Fiction) – A published work exploring historical narrative perspectives and observational paradigm shifts.
