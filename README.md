@@ -2,7 +2,7 @@
 
 ### *Bridging High-Dimensional Data Analytics with Global Financial, Econometric, and Geopolitical Intelligence*
 **Dual-Base Operations:** Singapore 🇸🇬 ⇄ Seoul, South Korea 🇰🇷  
-**Domain Tenure Baseline:** 14+ Years Institutional Horizon  
+**Domain Tenure Baseline:** 14+ Years Horizon  
 **Specializations:** Mathematical Alpha Vector Modeling, Systematic Backtesting Frictions, Geopolitical Risk Factor Equations, Strategic Dominance Modeling
 
 ---
