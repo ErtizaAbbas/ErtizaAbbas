@@ -1,7 +1,7 @@
 # 🏛️ Quantitative Data & Macro Strategic Analyst
 
 ### *Bridging High-Dimensional Data Analytics with Global Financial, Econometric, and Geopolitical Intelligence*
-**Dual-Base Operations:** Singapore 🇸🇬 ⇄ Seoul, South Korea 🇰🇷  
+**Dual-Base Operations:** Singapore 🇸🇬 ⇄ Seoul, South Korea 🇰🇷  ⇄ Karachi
 **Domain Tenure Baseline:** 14+ Years Horizon  
 **Specializations:** Mathematical Alpha Vector Modeling, Systematic Backtesting Frictions, Geopolitical Risk Factor Equations, Strategic Dominance Modeling
 
