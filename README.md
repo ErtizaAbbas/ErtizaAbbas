@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 Executive Profile Summary
+## Profile Summary
 I am a senior **Data Analyst, Published Author, and Macro Strategist** leveraging mathematical modeling and statistical parsing to extract predictive signals from complex financial and geopolitical systems. Over a 14+ year career, my core operational focus has evolved from baseline data architecture into engineering volatility-adjusted algorithmic execution strategies ($\mathcal{ATR}$ frameworks), validating out-of-sample machine learning time-series models, and researching macro conflicts and structural market frictions.
 
 As an active academic researcher and author, my work focuses on developing original quantitative frameworks to evaluate strategic dominance, macroeconomic paradigm shifts, and cross-border capital flow dynamics.
