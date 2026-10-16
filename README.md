@@ -2,13 +2,14 @@
 
 ### *Bridging High-Dimensional Data Analytics with Global Financial, Econometric, and Geopolitical Intelligence*
 **Dual-Base Operations:** Singapore 🇸🇬 ⇄ Seoul, South Korea 🇰🇷  ⇄ Karachi
-**Domain Tenure Baseline:** 14+ Years Horizon  
-**Specializations:** Mathematical Alpha Vector Modeling, Systematic Backtesting Frictions, Geopolitical Risk Factor Equations, Strategic Dominance Modeling
+**Domain Tenure Baseline:** 20 Years Horizon  
+**Certification:** Certified Trader — The Association of Banks in Singapore (ABS)  
+**Specializations:** Data Science, Data Engineering, Mathematical Alpha Vector Modeling, Systematic Backtesting Frictions, Geopolitical Risk Factor Equations, Strategic Dominance Modeling
 
 ---
 
 ## Profile Summary
-I am a senior **Data Analyst, Published Author, and Macro Strategist** leveraging mathematical modeling and statistical parsing to extract predictive signals from complex financial and geopolitical systems. Over a 14+ year career, my core operational focus has evolved from baseline data architecture into engineering volatility-adjusted algorithmic execution strategies ($\mathcal{ATR}$ frameworks), validating out-of-sample machine learning time-series models, and researching macro conflicts and structural market frictions.
+I am a senior **Data Analyst, Data Scientist, Data Engineer, Published Author, and Macro Strategist**, and a certified trader with The Association of Banks in Singapore (ABS), leveraging mathematical modeling and statistical parsing to extract predictive signals from complex financial and geopolitical systems. Over a 20-year career, my core operational focus has evolved from baseline data architecture into engineering volatility-adjusted algorithmic execution strategies ($\mathcal{ATR}$ frameworks), validating out-of-sample machine learning time-series models, and researching macro conflicts and structural market frictions. I have also mentored 80+ students worldwide in trading and investment.
 
 As an active academic researcher and author, my work focuses on developing original quantitative frameworks to evaluate strategic dominance, macroeconomic paradigm shifts, and cross-border capital flow dynamics.
 
@@ -22,6 +23,8 @@ As an active academic researcher and author, my work focuses on developing origi
 | **Financial Engineering** | Dynamic Broker Spread Cost Penalty Modeling, Max Drawdown ($\mathcal{MDD}$) Risks | Matrix Calculus Normal Equations, Continuous Returns |
 | **Predictive Inference** | Out-of-Sample (OOS) ML Back-Validation, Auto-Regressive Drift Models | Pure Math OLS (Ordinary Least Squares), `Matplotlib` |
 | **Strategic Macro Research** | Geopolitical Risk Factor Profiling, Econometric Trend Modeling | Cross-Asset Database Architecture, Statistical Auditing |
+| **Data Science** | Regression Modeling (OLS & Ridge), Walk-Forward Validation, Statistical Analysis & Visualization | `Python`, `pandas`, `NumPy`, `Plotly`, `Streamlit` |
+| **Data Engineering** | Automated Data Ingestion Pipelines, Multi-Tenant API Back-Ends, Data Caching & Database Architecture | `FastAPI`, PDF/CSV Ingestion, Relational Databases |
 
 ---
 
@@ -57,6 +60,7 @@ D = (M + A) \times C^w
 
 ## 💻 Sandbox Repositories & Engineering Workspaces
 
+* 🛡️ **[KSE Sentinel](https://github.com/ErtizaAbbas/kse-sentinel-terminal)** – *Principal Architect & Developer.* A FastAPI-based institutional, multi-tenant quantitative trading engine for the Pakistan Stock Exchange (PSX), with a watchlist manager, alert engine, sector heatmap, macro overlay, earnings calendar and position sizer.
 * 📈 **[Systematic Multi-Asset Alpha Engine](https://github.com)** – A high-performance evaluation sandbox processing daily timeframe arrays to backtest cross-asset trend strategies adjusted for broker friction penalties (US30, US100, GER40, GOLD, BTCUSD). Features an OLS Next-Day Close prediction module with an 80/20 chronological validation pipeline.
 
 ---
@@ -64,12 +68,11 @@ D = (M + A) \times C^w
 ## 🔗 Connect & Collaborate
 
 ```math
-\mathbf{C} = \begin{bmatrix}  \text{Communication Node} & \text{Secure Directives} \\  \hline  \text{Corporate Inbox Gateway} & \text{abbasertiza@gmail.com} \\  \text{Professional Network Link} & \text{://linkedin.com}  \end{bmatrix}
+\mathbf{C} = \begin{bmatrix}  \text{Communication Node} & \text{Secure Directives} \\  \hline  \text{Corporate Inbox Gateway} & \text{abbasertiza@gmail.com} \\  \text{Professional Network Link} & \text{linkedin.com/in/abbas-ertiza}  \end{bmatrix}
 ```
 
 * 📨 **Direct Corporate Inbox Portal:** [abbasertiza@gmail.com](mailto:abbasertiza@gmail.com)
-* 💼 **LinkedIn Executive Network:** [://linkedin.com](https://www.://linkedin.com)
+* 💼 **LinkedIn Executive Network:** [linkedin.com/in/abbas-ertiza](https://www.linkedin.com/in/abbas-ertiza/)
 
 ---
 <p align="center"><i>"In high-dimensional quantitative systems and macro conflict domains alike, long-term survival relies entirely on identifying internal structural cohesion and honoring systemic trend integrity."</i></p>
-
