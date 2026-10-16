@@ -23,10 +23,10 @@ As an active academic researcher and author, my work focuses on developing origi
 | **Financial Engineering** | Dynamic Broker Spread Cost Penalty Modeling, Max Drawdown ($\mathcal{MDD}$) Risks | Matrix Calculus Normal Equations, Continuous Returns |
 | **Predictive Inference** | Out-of-Sample (OOS) ML Back-Validation, Auto-Regressive Drift Models | Pure Math OLS (Ordinary Least Squares), `Matplotlib` |
 | **Strategic Macro Research** | Geopolitical Risk Factor Profiling, Econometric Trend Modeling | Cross-Asset Database Architecture, Statistical Auditing |
-| **Data Science** | Regression Modeling (OLS & Ridge), Walk-Forward Validation, Statistical Analysis & Visualization | `Python`, `pandas`, `NumPy`, `Plotly`, `Streamlit` |
+| **Data Science** | Regression Modeling (OLS & Ridge), Walk-Forward Validation, Statistical Analysis & Visualization | `Python`, `Java`, `C++`, `pandas`, `NumPy`, `Plotly`, `Streamlit` |
 | **Data Engineering** | Automated Data Ingestion Pipelines, Multi-Tenant API Back-Ends, Data Caching & Database Architecture | `FastAPI`, PDF/CSV Ingestion, Relational Databases |
 
----
+---ja
 
 ## 📝 Featured Theoretical Framework: The Strategic Dominance Formula
 
